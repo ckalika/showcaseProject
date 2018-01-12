@@ -1,0 +1,14 @@
+{
+  "name": "api-server",
+  "version": "1.0.0",
+  "description": "A simple Express.js API server",
+  "main": "api-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christopher Kalika <me@christopherkalika.com>",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "express": "^4.16.2"
+  }
+}

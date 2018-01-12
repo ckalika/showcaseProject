@@ -1,0 +1,28 @@
+# Ignore these files in git commit
+
+# Node Modules
+node_modules
+platforms
+plugins
+
+# OS X
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# WS
+.idea/
+
+# Project Tmp Files
+tmp/
+dist/
+
+# Yarn
+yarn-error.log
+
+# Local Documentation
+doc/local/*
+
+# Backup and Stash
+backup
+stash
