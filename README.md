@@ -55,19 +55,19 @@ Please note that this is simply meant as an example, to get you moving. Feel fre
 
 
 #### Node.js
-[Express/Node Introduction](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)
-[Node Beginner (Free online book)](https://www.nodebeginner.org/)
-[Introduction to Node.js and Express](https://medium.com/javascript-scene/introduction-to-node-express-90c431f9e6fd)
+- [Express/Node Introduction](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)
+- [Node Beginner (Free online book)](https://www.nodebeginner.org/)
+- [Introduction to Node.js and Express](https://medium.com/javascript-scene/introduction-to-node-express-90c431f9e6fd)
 
 #### Express
-[Basic Routing](https://expressjs.com/en/starter/basic-routing.html)
-[Error Handling](https://expressjs.com/en/guide/error-handling.html)
-[Middleware](https://expressjs.com/en/guide/using-middleware.html)
+- [Basic Routing](https://expressjs.com/en/starter/basic-routing.html)
+- [Error Handling](https://expressjs.com/en/guide/error-handling.html)
+- [Middleware](https://expressjs.com/en/guide/using-middleware.html)
 
 
 #### Cordova
-[Getting Started](https://cordova.apache.org/#getstarted)
-[Create Your First App](https://cordova.apache.org/docs/en/latest/guide/cli/index.html)
+- [Getting Started](https://cordova.apache.org/#getstarted)
+- [Create Your First App](https://cordova.apache.org/docs/en/latest/guide/cli/index.html)
 
 #### jQuery
-[Intro to jQuery](https://www.teaching-materials.org/jquery/#/)
+- [Intro to jQuery](https://www.teaching-materials.org/jquery/#/)
